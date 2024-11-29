@@ -7,7 +7,7 @@
 > is coming soon ...
 >
 >
->I believe you can fininsh the paper perfectly.
+> I believe you can fininsh the paper perfectly.
 > Thanks to myself for years of hardwork.
 
 ### Data pre
