@@ -153,7 +153,6 @@ if __name__ == "__main__":
         num_classes=9,
         fork_feat=True).cuda()
 
-    # net = load_from(net, 'eformer_l_450.pth')
 
     trainer = {'Synapse': trainer_synapse, }
     trainer[dataset_name](args, net, args.output_dir)
